@@ -27,6 +27,8 @@ First, you'll configure    EC2 instance to run the FRP server.
 
 #### 2\. Install and Configure FRP Server
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1e0bf2b9-2e19-425f-9759-a11fbe331743" />
+
   * SSH into    EC2 instance.
 
   * Download the latest FRP release for Linux AMD64.
